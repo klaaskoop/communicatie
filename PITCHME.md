@@ -1,12 +1,11 @@
-# Peaceful parent, Happy Kids
-* Meer grip op jezelf, meer verbinding met je kind* How to stop yelling and start connecting* Meer connectie, minder correctie
-* Grip, contact, coaching
+# Communicatie in de zorg
+geen daden maar woorden
 ---
-# hoe moet het niet
-Straffen helpt nietSchreeuwen moet niet
+![](drijfveer.jpg)
+---
+# communicatie in de zorg
+in 3 gedachten
+# drijfveren destigmatiseren
+No one loves without reservation, and everyone would be better off if we could destigmatise parental ambivalence.
 +++
-# hoe dan wel
-empathie
-grenzen stellen
----
-enzovoorts
+
