@@ -8,8 +8,9 @@ in 3 gedachten
 ---
 # 1) drijfveren destigmatiseren
 +++
-> "No one loves without reservation, and everyone would be better off if we could destigmatise parental ambivalence."   
-> -- Andrew Solomon - Far from the tree
+> "No one loves without reservation, and everyone would be better off if we could destigmatise parental ambivalence."  
+
+-- Andrew Solomon - Far from the tree
 +++
 ## de patient die niet beter wordt
 +++
@@ -40,8 +41,8 @@ er is ook sprake van: indien - staken - abdomen - intake - desalniettemin - welk
 ogenblikjes
 +++
 >To see the world in a grain of sand  
-And a heaven in a wild flower
-Hold infinity in the palm of your hand
+And a heaven in a wild flower  
+Hold infinity in the palm of your hand  
 And eternity in an hour
 > -- William Blake
 ---?image=drijfveer.jpg&size=auto 90%
