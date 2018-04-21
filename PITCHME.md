@@ -12,14 +12,12 @@ in 3 gedachten
 > -- Andrew Solomon - Far from the tree
 +++
 ## de patient die niet beter wordt
-+++
-## de opluchting van overlijden
 ---
 # 2) vorm vs inhoud
 +++
 respectievelijk  
 thans  
-vervaardigd  
+er werd vervaardigd  
 er is ook sprake van: indien - staken - abdomen - intake - desalniettemin - welke geen afwijkingen toonde
 +++?image=endocarditis.png&size=auto 90%
 +++?image=leeches.png&size= 90% auto
@@ -36,7 +34,7 @@ er is ook sprake van: indien - staken - abdomen - intake - desalniettemin - welk
 >"...de vraag hoe vaak vitamine D tekort voorkomt bij jonge kinderen. Het belang om dit te weten is voor mij zonneklaar."
 +++
 ## Ogenblikje
-+++?image=visceus.jpg&size=auto 90%
++++?image=visceus.jpg&size=auto 80%
 +++
 >To see the world in a grain of sand  
 And a heaven in a wild flower  

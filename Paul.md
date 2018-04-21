@@ -27,6 +27,7 @@ Die mag u er zelf bij bedenken. Dat was een ingewikkelde manier van zeggen dat i
 Iedereen zegt bijvoorbeeld dat ze het werk doen "voor de patient", "de patient op een".
 
 Compassiemoeheid
+Opluchting van overlijden
 
 
 Far from the tree, Andrew Salomon
