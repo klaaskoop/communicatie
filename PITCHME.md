@@ -8,9 +8,7 @@ in 3 gedachten
 ---
 # 1) drijfveren destigmatiseren
 +++
-> No one loves without reservation, 
-> and everyone would be better off 
-> if we could destigmatise parental ambivalence
+> "No one loves without reservation, and everyone would be better off if we could destigmatise parental ambivalence."   
 Andrew Solomon - Far from the tree
 +++
 ## de patient die niet beter wordt
@@ -22,14 +20,27 @@ Andrew Solomon - Far from the tree
 respectievelijk  
 thans  
 vervaardigd  
-indien - staken - abdomen - intake - desalniettemin - welke geen afwijkingen toonde - etc
+er is ook sprake van: indien - staken - abdomen - intake - desalniettemin - welke geen afwijkingen toonde
 +++?image=endocarditis.png&size=auto 90%
-+++?image=leeches.png&size=auto 90%
++++?image=leeches.png&size= 90% auto
 +++?image=459712790.jpg&size=auto 90%
++++
+- never use a long word where a short one will do
+- if it is possible to cut a word out, always cut it out
+- Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
 ---
 # 3) mediumhelium
 +++
-
-
+## Paul over kiDs studie
+>"...de vraag hoe vaak vitamine D tekort voorkomt bij jonge kinderen. Het belang om dit te weten is voor mij zonneklaar."
++++
+## Ogenblikje
++++
+ogenblikjes
++++
+>To see the world in a grain of sand  And a heaven in a wild flower  Hold infinity in the palm of your hand  And eternity in an hour
+---
+---?image=drijfveer.jpg&size=auto 90%
+---
 
 

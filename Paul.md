@@ -47,7 +47,7 @@ De MRI was normaal
 Taal is maar een medium, maar het levert genoeg leuke dingen op om af en toe even verlichting te vinden temidden van alle narigheid van alle dag.
 Voorbeeld er geen gat meer in zien?
 Ogenblikjes
-KiDs studie: over vitamine D. Het belang om dit te weten is voor mij zonneklaar.
+KiDs studie: over vitamine D. "...de vraag hoe vaak vitamine D tekort voorkomt bij jonge kinderen. Het belang om dit te weten is voor mij zonneklaar."
 
 
 
