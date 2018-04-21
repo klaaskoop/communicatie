@@ -1,7 +1,6 @@
 # Communicatie in de zorg
 geen daden maar woorden
----
----?image=drijfveer/bg.jpg
+---?image=drijfveer.jpg
 ---
 # communicatie in de zorg
 in 3 gedachten
