@@ -9,8 +9,7 @@ in 3 gedachten
 # 1) drijfveren destigmatiseren
 +++
 > "No one loves without reservation, and everyone would be better off if we could destigmatise parental ambivalence."  
-
--- Andrew Solomon - Far from the tree
+> -- Andrew Solomon - Far from the tree
 +++
 ## de patient die niet beter wordt
 +++
@@ -37,8 +36,7 @@ er is ook sprake van: indien - staken - abdomen - intake - desalniettemin - welk
 >"...de vraag hoe vaak vitamine D tekort voorkomt bij jonge kinderen. Het belang om dit te weten is voor mij zonneklaar."
 +++
 ## Ogenblikje
-+++
-ogenblikjes
++++?image=visceus.jpg&size=auto 90%
 +++
 >To see the world in a grain of sand  
 And a heaven in a wild flower  

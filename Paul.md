@@ -49,6 +49,10 @@ Voorbeeld er geen gat meer in zien?
 Ogenblikjes
 KiDs studie: over vitamine D. "...de vraag hoe vaak vitamine D tekort voorkomt bij jonge kinderen. Het belang om dit te weten is voor mij zonneklaar."
 
+william blake. kleine pareltjes, in woorden, maar ook in andere alledaagse dingen.
+paul vertelde me eens over hoe ze het geruis van een wegvliegende zwaan hoorden
+en daarmee is eigenlijk mijn presentatie rond, want ik moest denken aan mijn eerste plaatje:
+nu drijfveren dreefveren worden, denk ik dat er rondom het stoomgemaal voldoende gewone, fysieke tastbare drijfveren overblijven.
 
 
 
