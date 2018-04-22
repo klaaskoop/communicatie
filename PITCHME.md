@@ -1,23 +1,26 @@
 # Communicatie in de zorg
 ---
-# Geen daden maar woorden
----?image=drijfveer.jpg&size=auto 90%
+## Geen daden maar woorden
+---?image=drijfveer.jpg&size=auto 80%
 ---
-# communicatie in de zorg
+## communicatie in de zorg
 in 3 gedachten
 ---
 # 1) drijfveren destigmatiseren
 +++
+## de patient die niet beter wordt
++++
 > "No one loves without reservation, and everyone would be better off if we could destigmatise parental ambivalence."  
 > -- Andrew Solomon - Far from the tree
-+++
-## de patient die niet beter wordt
 ---
 # 2) vorm vs inhoud
 +++
 respectievelijk  
+  
 thans  
-er werd vervaardigd  
+  
+er werd ... vervaardigd  
+  
 er is ook sprake van: indien - staken - abdomen - intake - desalniettemin - welke geen afwijkingen toonde
 +++?image=endocarditis.png&size=auto 90%
 +++?image=leeches.png&size= 90% auto
@@ -25,7 +28,9 @@ er is ook sprake van: indien - staken - abdomen - intake - desalniettemin - welk
 +++
 ## Adviezen George Orwell
 - Never use a long word where a short one will do
+
 - If it is possible to cut a word out, always cut it out
+
 - Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
 ---
 # 3) Medium helium
@@ -36,12 +41,14 @@ er is ook sprake van: indien - staken - abdomen - intake - desalniettemin - welk
 ## Ogenblikje
 +++?image=visceus.jpg&size=auto 80%
 +++
+## Ogenblikjes
++++
 >To see the world in a grain of sand  
 And a heaven in a wild flower  
 Hold infinity in the palm of your hand  
 And eternity in an hour
 > -- William Blake
----?image=drijfveer.jpg&size=auto 90%
+---?image=drijfveer.jpg&size=auto 80%
 ---
 
 
