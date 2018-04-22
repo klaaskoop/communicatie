@@ -24,8 +24,8 @@ er is ook sprake van: indien - staken - abdomen - intake - desalniettemin - welk
 +++?image=459712790.jpg&size=auto 90%
 +++
 ## Adviezen George Orwell
-- never use a long word where a short one will do
-- if it is possible to cut a word out, always cut it out
+- Never use a long word where a short one will do
+- If it is possible to cut a word out, always cut it out
 - Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
 ---
 # 3) Medium helium
