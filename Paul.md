@@ -59,6 +59,7 @@ Er werd een MRI vervaardigd, welke in overleg met de radiologie geen afwijkingen
 De MRI was normaal
 
 ###3) Mediumhelium
+Taal op vakantie  
 Taal is maar een medium, maar het levert genoeg leuke dingen op om af en toe even verlichting te vinden temidden van alle narigheid van alle dag.
 Voorbeeld er geen gat meer in zien?
 Ogenblikjes
