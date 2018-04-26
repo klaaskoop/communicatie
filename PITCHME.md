@@ -8,6 +8,8 @@ in 3 gedachten
 ---
 # 1) drijfveren destigmatiseren
 +++
+## de roze wolk die niet wil komen
++++
 ## de patient die niet beter wordt
 +++
 > "No one loves without reservation, and everyone would be better off if we could destigmatise parental ambivalence."  
@@ -21,7 +23,7 @@ thans
   
 er werd ... vervaardigd  
   
-er is ook sprake van: indien - staken - abdomen - intake - desalniettemin - bedroeg - welke geen afwijkingen toonde
+er is ook sprake van: indien - staken - abdomen - bedroeg - welke geen afwijkingen toonde
 +++?image=endocarditis.png&size=auto 90%
 +++?image=leeches.png&size= 90% auto
 +++?image=459712790.jpg&size=auto 90%
@@ -50,5 +52,3 @@ And eternity in an hour
 > -- William Blake
 ---?image=drijfveer.jpg&size=auto 80%
 ---
-
-
