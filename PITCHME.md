@@ -1,7 +1,7 @@
 # Communicatie in de zorg
+---?image=drijfveer.jpg&size=auto 80%
 ---
 ## Geen daden maar woorden
----?image=drijfveer.jpg&size=auto 80%
 ---
 ## communicatie in de zorg
 in 3 gedachten
@@ -21,7 +21,7 @@ thans
   
 er werd ... vervaardigd  
   
-er is ook sprake van: indien - staken - abdomen - intake - desalniettemin - welke geen afwijkingen toonde
+er is ook sprake van: indien - staken - abdomen - intake - desalniettemin - bedroeg - welke geen afwijkingen toonde
 +++?image=endocarditis.png&size=auto 90%
 +++?image=leeches.png&size= 90% auto
 +++?image=459712790.jpg&size=auto 90%
