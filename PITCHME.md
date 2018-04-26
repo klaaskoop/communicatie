@@ -7,6 +7,8 @@ Allround, inzet voor opleiding, je kledingstijl, je anarchisme, je voetbal achte
 ## Geen daden maar woorden
 note:
 veel gedaan: infusen, buiken, hakzitten, seizoenskaarten, konijntjes. Maar nog veel meer gepraat, geschreven, getiktakt.
+Iedereen maakt wel eens een flauwe taalgrap. Wij allemaal klap vd wieken, Paul stomp van de molen
+Het eerste konijntje
 ---
 ## communicatie in de zorg
 in 3 gedachten
