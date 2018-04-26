@@ -25,7 +25,7 @@ er werd ... vervaardigd
   
 er is ook sprake van: indien - staken - abdomen - bedroeg - welke geen afwijkingen toonde
 +++?image=endocarditis.png&size=auto 90%
-+++?image=leeches.png&size= 90% auto
++++?image=leeches.png&size= 75% auto
 +++?image=459712790.jpg&size=auto 90%
 +++
 ## Adviezen George Orwell
