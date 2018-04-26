@@ -42,9 +42,9 @@ er is ook sprake van: indien - staken - abdomen - bedroeg - welke geen afwijking
 +++
 ## Ogenblikje
 +++?image=visceus.jpg&size=auto 80%
++++?image=smasyndrome.jpg&size=auto 80%
 +++
 ## Ogenblikjes
-+++?image=smasyndrome.jpg&size=auto 80%
 +++
 >To see the world in a grain of sand  
 And a heaven in a wild flower  
