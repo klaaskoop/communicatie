@@ -1,10 +1,20 @@
 # Communicatie in de zorg
 ---?image=drijfveer.jpg&size=auto 80%
+note:
+Naarmate vinden makkelijker is, wordt kiezen moeilijker.
+Allround, inzet voor opleiding, je kledingstijl, je anarchisme, je voetbal achtergrond, je stoomgemaal, je molenstomp.
 ---
 ## Geen daden maar woorden
+note:
+veel gedaan: infusen, buiken, hakzitten, seizoenskaarten, konijntjes. Maar nog veel meer gepraat, geschreven, getiktakt.
 ---
 ## communicatie in de zorg
 in 3 gedachten
+note:
+inhoud  
+vorm  
+vorm als inhoud, de vorm op vakantie  
+steeds wat lichter
 ---
 # 1) drijfveren destigmatiseren
 +++
@@ -45,6 +55,11 @@ er is ook sprake van: indien - staken - abdomen - bedroeg - welke geen afwijking
 +++?image=smasyndrome.jpg&size=auto 80%
 +++
 ## Ogenblikjes
+note:
+pacemaker: knoop doorgehakt  
+automutilatie: gevoelig onderwerp aansnijden  
+epilepsie: niet zo schokkend  
+
 +++
 >To see the world in a grain of sand  
 And a heaven in a wild flower  
